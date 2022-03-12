@@ -30,7 +30,7 @@ Produtos cadastrados (Nome, Descrição e Preço)
 - Maven
 - Junit / Mockito
 - SpringBoot
-- BD em memória H2-Database
+- H2-Database
 
 ### Ferramentas
 
@@ -58,3 +58,5 @@ Porta: 9999
 Endpoints Swagger-UI: http://localhost:9999/swagger-ui.html
 
 Endpoint raiz Postman: http://localhost:9999/products/[operações]
+
+Usuário H2-Database - Usuário: jdbc:h2:mem:testdb | Senha: (vazio)
